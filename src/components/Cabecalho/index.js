@@ -18,7 +18,7 @@ export function Cabecalho() {
 
     return (
         <StyleHeader>
-            <LinkLogo spy={true} smooth={true} offset={-80} duration={500} to="home" onClick={handleClick}>
+            <LinkLogo spy={true} smooth={true} offset={-80} duration={500} to="home">
                 <Logo src={bank_logo} />
             </LinkLogo>
             <MobileIcone onClick={handleClick}>

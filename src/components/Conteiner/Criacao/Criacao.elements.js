@@ -39,6 +39,10 @@ padding-bottom: 5%;
     height: 100%;
 }
 
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+        height: 100vh;
+}
+
 `;
 
 export const TituloCriacao = styled(Titulo)`

@@ -20,10 +20,11 @@ top:0%;
 export const LinkLogo = styled(Link)`
 text-decoration: none;
 border-bottom: none;
+padding-bottom: 0;
 cursor: pointer;
 
 &:hover{
-    border-bottom: none;
+    border-bottom: none; 
 }
 `;
 

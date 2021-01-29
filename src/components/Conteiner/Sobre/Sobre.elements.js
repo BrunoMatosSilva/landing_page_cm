@@ -12,7 +12,7 @@ flex-direction: column;
 align-items: center;
 
 @media screen and (max-width: 600px) {
-    height: 100%;
+    height: 100vh;
 }
 
 @media screen and (min-width: 601px) and (max-width: 736px) {
