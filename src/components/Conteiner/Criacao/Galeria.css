@@ -1,0 +1,55 @@
+.tag {
+	outline: none;
+	border: none;
+	color: #000;
+	margin: 0px 10px;
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.tag.active {
+	font-weight: bold;
+	border-bottom: 1px solid #C3B003;
+}
+
+.active {
+    font-weight: bold;
+    padding-bottom: 1.7rem;
+	border-bottom: 3px solid #C3B003;
+}
+
+.container {
+	width: 80%;
+    margin: auto;
+    padding-bottom: 2rem;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 80%;
+        height: 100%;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.image-card {
+    height: auto;
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ddd;
+    border-radius: 2px;
+}
+
+@media only screen and (max-width: 600px) {
+        .image-card {
+            height: auto;
+        }
+    }
+
+
+.image {
+	width: 100%;
+}
