@@ -14,6 +14,10 @@ Note: The business using this page is totally fictitious.
 
 ![about_pag](https://user-images.githubusercontent.com/69808542/106295468-3fe6b000-622f-11eb-8dd4-d05bfd1e6d5e.jpg)
 
+## Creation
+
+![creation_pag](https://user-images.githubusercontent.com/69808542/106297520-8e954980-6231-11eb-9430-562eaa832212.jpg)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
