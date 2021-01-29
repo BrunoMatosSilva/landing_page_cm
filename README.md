@@ -39,4 +39,4 @@ If you need to add new images or change the root file of the images is in the pu
 - React-Icons
 - Simple-react-lightbox
 
-**Tks!!
+**Tks!!**
