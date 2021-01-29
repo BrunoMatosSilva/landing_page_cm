@@ -1,7 +1,10 @@
+/* eslint-disable linebreak-style */
 import styled from 'styled-components';
-import { corFundoPrimaria, corTextoPrimaria, corFundoSecundario, corTextoSecundario } from "../../UI/variaveis";
-import fundo_banner from '../../../imagens/fundo_banner.jpg';
 import { Link } from 'react-scroll';
+import {
+  corFundoPrimaria, corTextoPrimaria, corFundoSecundario, corTextoSecundario,
+} from '../../UI/variaveis';
+import fundobanner from '../../../imagens/fundo_banner.jpg';
 
 export const StyleBanner = styled.section`
 display: flex;
@@ -21,7 +24,7 @@ height: 100vh;
 `;
 
 export const SectionBanner = styled.section`
-background-image: url(${fundo_banner});
+background-image: url(${fundobanner});
 background-repeat: no-repeat;
 width: 100%;
 background-size: cover;

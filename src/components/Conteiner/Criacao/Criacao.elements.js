@@ -1,31 +1,30 @@
+/* eslint-disable linebreak-style */
 import styled from 'styled-components';
-import { corFundoTerceiro } from "../../UI/variaveis";
+import { corFundoTerceiro } from '../../UI/variaveis';
 import { Titulo } from '../Banner/Banner.elements';
 
-
 export const options = {
-	settings: {
-	overlayColor: '#333',
-	autoplaySpeed: 1500,
-	transitionSpeed: 900
-	},
-	buttons: {
-	backgroundColor: '#fff',
-	iconColor: '#C3B003'
-	},
-	caption: {
-	captionColor: '#a6cfa5',
-	captionFontFamily: 'Raleway, sans-serif',
-	captionFontWeight: '300',
-	captionTextTransform: 'uppercase'
-	},
-	progressBar: {
-	height: '20px',
-	fillColor: '#C3B003',
-	backgroundColor: '#ffffff',
-	}
+  settings: {
+    overlayColor: '#333',
+    autoplaySpeed: 1500,
+    transitionSpeed: 900,
+  },
+  buttons: {
+    backgroundColor: '#fff',
+    iconColor: '#C3B003',
+  },
+  caption: {
+    captionColor: '#a6cfa5',
+    captionFontFamily: 'Raleway, sans-serif',
+    captionFontWeight: '300',
+    captionTextTransform: 'uppercase',
+  },
+  progressBar: {
+    height: '20px',
+    fillColor: '#C3B003',
+    backgroundColor: '#ffffff',
+  },
 };
-
 
 export const StyleCriacao = styled.section`
 background-color: ${corFundoTerceiro};
@@ -52,7 +51,7 @@ export const TituloCriacao = styled(Titulo)`
 `;
 
 export const MenuCriacao = styled.div`
-    text-align: center;
-	padding: 20px 0px;
-	background-color: #fff;
+padding: 20px 0px;
+background-color: #fff;
+text-align: center;
 `;

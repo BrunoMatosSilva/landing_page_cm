@@ -1,7 +1,7 @@
+/* eslint-disable linebreak-style */
 import styled from 'styled-components';
-import { corFundoPrimaria, corTextoSecundario, corTextoPrimaria } from "../../UI/variaveis";
+import { corFundoPrimaria, corTextoSecundario, corTextoPrimaria } from '../../UI/variaveis';
 import { Titulo, Paragrafo } from '../Banner/Banner.elements';
-
 
 export const StyleSobre = styled.section`
 background-color: ${corFundoPrimaria};

@@ -1,7 +1,7 @@
+/* eslint-disable linebreak-style */
 import styled from 'styled-components';
 import { Link } from 'react-scroll';
 import { corTextoPrimaria, corTextoSecundario, corFundoPrimaria } from '../UI/variaveis';
-
 
 export const StyleHeader = styled.div`
 background-color: #333;
@@ -68,7 +68,7 @@ flex-direction: wrap;
     height: 90vh;
     position: absolute;
     top: 80px;
-    left: ${({click}) => (click ? 0 : '-100%')};
+    left: ${({ click }) => (click ? 0 : '-100%')};
     opacity: 1;
     transition: all 0.5s ease-in-out;
     background: ${corFundoPrimaria};

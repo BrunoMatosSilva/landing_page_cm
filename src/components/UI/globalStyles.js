@@ -1,4 +1,5 @@
-import styled, {createGlobalStyle} from 'styled-components';
+/* eslint-disable linebreak-style */
+import styled, { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
 *{
@@ -19,4 +20,4 @@ padding-right: 50px;
 padding-left: 50px;
 `;
 
-export default GlobalStyle
+export default GlobalStyle;

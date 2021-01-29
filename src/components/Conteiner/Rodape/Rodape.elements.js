@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import styled from 'styled-components';
 import { corTextoTerceiro, corTextoSecundario } from '../../UI/variaveis';
 
