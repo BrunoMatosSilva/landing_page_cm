@@ -8,14 +8,7 @@ Note: The business using this page is totally fictitious.
 
 ## Navigation / Banner
 
-![navegationbanner](https://user-images.githubusercontent.com/69808542/106289343-f181e300-6227-11eb-8719-7c2282cb4383.JPG)
-
-![navegationbanner_phone](https://user-images.githubusercontent.com/69808542/106289405-03638600-6228-11eb-9f9a-cfa1904ff5c8.JPG)
-
-![navegationbanner_ipad](https://user-images.githubusercontent.com/69808542/106289834-7ff66480-6228-11eb-9ef1-000beb483359.JPG)
-
-
-![navegation_phone](https://user-images.githubusercontent.com/69808542/106289882-900e4400-6228-11eb-883c-c686efb5b312.JPG)
+![navegationbanner](https://user-images.githubusercontent.com/69808542/106289343-f181e300-6227-11eb-8719-7c2282cb4383.JPG) ![navegationbanner_phone](https://user-images.githubusercontent.com/69808542/106289405-03638600-6228-11eb-9f9a-cfa1904ff5c8.JPG) ![navegationbanner_ipad](https://user-images.githubusercontent.com/69808542/106289834-7ff66480-6228-11eb-9ef1-000beb483359.JPG) ![navegation_phone](https://user-images.githubusercontent.com/69808542/106289882-900e4400-6228-11eb-883c-c686efb5b312.JPG)
 
 ## Getting Started with Create React App
 
