@@ -81,8 +81,8 @@ export const FormTextarea = styled.textarea`
         border: 2px solid #FAFF00;
     }
 
-@media screen and (max-width: 600px) {
-        width: 100%;
+@media screen and (max-width: 600px){
+    width: 100%;
 }
 `;
 
