@@ -28,15 +28,28 @@ export const StyleFormulario = styled.div`
     align-items: center;
     width: 80%;
     flex-direction: column;
+
+    @media screen and (max-width: 600px) {
+        width: 100%;
+    }
 `;
 
 export const Formulario = styled.form`
     display: flex;
     align-items: center;
+
+    @media screen and (max-width: 600px) {
+    width: 100%;
+    }
 `;
 
 export const FormLista = styled.ul`
     list-style: none;
+
+    @media screen and (max-width: 600px) {
+    width: 90%;
+    margin-left: 20px;
+    }
 `;
 
 export const FormInput = styled.input`
@@ -48,6 +61,10 @@ export const FormInput = styled.input`
 
     &:hover{
         border: 2px solid #FAFF00;
+    }
+
+    @media screen and (max-width: 600px) {
+        width: 100%;
     }
 `;
 
@@ -62,6 +79,10 @@ export const FormTextarea = styled.textarea`
 
     &:hover{
         border: 2px solid #FAFF00;
+    }
+
+    @media screen and (max-width: 600px) {
+        width: 100%;
     }
 `;
 
