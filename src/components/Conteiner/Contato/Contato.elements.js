@@ -38,18 +38,18 @@ export const Formulario = styled.form`
     display: flex;
     align-items: center;
 
-    @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     width: 100%;
-    }
+}
 `;
 
 export const FormLista = styled.ul`
     list-style: none;
 
-    @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     width: 90%;
     margin-left: 20px;
-    }
+}
 `;
 
 export const FormInput = styled.input`
@@ -63,9 +63,9 @@ export const FormInput = styled.input`
         border: 2px solid #FAFF00;
     }
 
-    @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
         width: 100%;
-    }
+}
 `;
 
 export const FormTextarea = styled.textarea`
@@ -81,9 +81,9 @@ export const FormTextarea = styled.textarea`
         border: 2px solid #FAFF00;
     }
 
-    @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
         width: 100%;
-    }
+}
 `;
 
 export const EnviarInput = styled.button`
